@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<groups xmlns="http://www.isdc.ro/wro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isdc.ro/wro wro.xsd">
+   <group name="addons_responsive">
+      <js>/_ui/addons/chineseproductsharingaddon/responsive/common/js/chineseproductsharingaddon.js</js>
+      <css>/_ui/addons/chineseproductsharingaddon/responsive/common/css/chineseproductsharingaddon.css</css>
+      <js>/_ui/addons/stocknotificationaddon/responsive/common/js/stocknotificationaddon.js</js>
+      <css>/_ui/addons/stocknotificationaddon/responsive/common/css/stocknotificationaddon.css</css>
+      <js>/_ui/addons/customerinterestsaddon/responsive/common/js/customerinterestsaddon.js</js>
+      <css>/_ui/addons/customerinterestsaddon/responsive/common/css/customerinterestsaddon.css</css>
+      <js>/_ui/addons/notificationaddon/responsive/common/js/notificationaddon.js</js>
+      <css>/_ui/addons/notificationaddon/responsive/common/css/notificationaddon.css</css>
+      <js>/_ui/addons/consignmenttrackingaddon/responsive/common/js/consignmenttrackingaddon.js</js>
+      <css>/_ui/addons/consignmenttrackingaddon/responsive/common/css/consignmenttrackingaddon.css</css>
+      <js>/_ui/addons/chinesepspwechatpaymentaddon/responsive/common/js/chinesepspwechatpaymentaddon.js</js>
+      <css>/_ui/addons/chinesepspwechatpaymentaddon/responsive/common/css/chinesepspwechatpaymentaddon.css</css>
+      <js>/_ui/addons/chineseaddressaddon/shared/js/chineseaddressaddon.js</js>
+      <js>/_ui/addons/chineseaddressaddon/shared/js/string.patch.js</js>
+      <js>/_ui/addons/verticalnavigationaddon/responsive/common/js/verticalnavigationaddon.js</js>
+      <css>/_ui/addons/verticalnavigationaddon/responsive/common/css/verticalnavigationaddon.css</css>
+      <js>/_ui/addons/chinesestoreaddon/responsive/common/js/chinesestoreaddon.js</js>
+      <js>/_ui/addons/chinesetaxinvoiceaddon/responsive/common/js/chinesetaxinvoiceaddon.js</js>
+      <css>/_ui/addons/chinesetaxinvoiceaddon/responsive/common/css/chinesetaxinvoiceaddon.css</css>
+      <js>/_ui/addons/chinesepaymentaddon/responsive/common/js/chinesepaymentaddon.js</js>
+      <css>/_ui/addons/chinesepaymentaddon/responsive/common/css/chinesepaymentaddon.css</css>
+      <css>/_ui/addons/chineselogisticaddon/responsive/common/css/chineselogisticaddon.css</css>
+      <js>/_ui/addons/chineseprofileaddon/responsive/common/js/chineseprofileaddon.js</js>
+      <css>/_ui/addons/chineseprofileaddon/responsive/common/css/chineseprofileaddon.css</css>
+      <js>/_ui/addons/customerticketingaddon/responsive/common/js/customerticketingaddon.js</js>
+      <css>/_ui/addons/customerticketingaddon/responsive/common/css/customerticketingaddon.css</css>
+      <css>/_ui/addons/liveeditaddon/responsive/common/css/liveeditaddon.css</css>
+   </group>
+   <group name="addons_desktop">
+      <js>/_ui/addons/chineseaddressaddon/shared/js/chineseaddressaddon.js</js>
+      <js>/_ui/addons/chineseaddressaddon/shared/js/string.patch.js</js>
+      <js>/_ui/addons/chinesestoreaddon/desktop/common/js/chinesestoreaddon.js</js>
+      <js>/_ui/addons/chinesetaxinvoiceaddon/desktop/common/js/chinesetaxinvoiceaddon.js</js>
+      <js>/_ui/addons/chinesepaymentaddon/desktop/common/js/chinesepaymentaddon.js</js>
+      <css>/_ui/addons/chinesepaymentaddon/desktop/common/css/chinesepaymentaddon.css</css>
+      <js>/_ui/addons/customerticketingaddon/desktop/common/js/customerticketingaddon.js</js>
+      <css>/_ui/addons/customerticketingaddon/desktop/common/css/customerticketingaddon.css</css>
+      <css>/_ui/addons/liveeditaddon/desktop/common/css/liveeditaddon.css</css>
+   </group>
+   <group name="addons_mobile">
+      <js>/_ui/addons/chinesestoreaddon/desktop/common/js/chinesestoreaddon.js</js>
+      <js>/_ui/addons/chinesetaxinvoiceaddon/desktop/common/js/chinesetaxinvoiceaddon.js</js>
+      <js>/_ui/addons/customerticketingaddon/desktop/common/js/customerticketingaddon.js</js>
+      <css>/_ui/addons/customerticketingaddon/mobile/common/css/customerticketingaddon.css</css>
+      <css>/_ui/addons/liveeditaddon/mobile/common/css/liveeditaddon.css</css>
+   </group>
+</groups>
+

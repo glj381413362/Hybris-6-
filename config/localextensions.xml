@@ -1,0 +1,50 @@
+<hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
+  <extensions>
+    <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
+    <extension name='mcc' />
+    <extension name='backoffice' />
+    <extension name='commercesearchbackoffice' />
+    <extension name='commerceservicesbackoffice' />
+    <extension name='solrfacetsearchbackoffice' />
+    <extension name='solrserver' />
+    <extension name='hepcockpits' />
+    <extension name='hepinitialdata' />
+    <extension name='hepstorefront' />
+    <extension name='yaddon' />
+    <extension name='ycommercewebservices' />
+    <extension name='hepfulfilmentprocess' />
+    <extension name='electronicsstore' />
+    <extension name='addonsupport' />
+    <extension name='liveeditaddon' />
+    <extension name='acceleratorwebservicesaddon' />
+    <extension name='customersupportbackoffice' />
+    <extension name='customerticketingaddon' />
+    <extension name='commerceorgsamplesaddon' />
+    <extension name='chineseprofileaddon' />
+    <extension name='chineselogisticaddon' />
+    <extension name='chineselogisticbackoffice' />
+    <extension name='chinesepaymentaddon' />
+    <extension name='chinesetaxinvoiceaddon' />
+    <extension name='chinesetaxinvoicebackoffice' />
+    <extension name='chinesepspalipaymockaddon' />
+    <extension name='chinesepspalipaysbackoffice' />
+    <extension name='chinesestoreaddon' />
+    <extension name='verticalnavigationaddon' />
+    <extension name='rulebuilderbackoffice' />
+    <extension name='couponbackoffice' />
+    <extension name='droolsruleengineservices' />
+    <extension name='couponfacades' />
+    <extension name='promotionenginesamplesaddon' />
+    <extension name='chineseaddressaddon' />
+    <extension name='chineseaddressbackoffice' />
+    <extension name='chinesepspwechatpaymentaddon' />
+    <extension name='chinesepspwechatpaysbackoffice' />
+    <extension name='consignmenttrackingaddon' />
+    <extension name='consignmenttrackingmockaddon' />
+    <extension name='consignmenttrackingbackoffice' />
+    <extension name='notificationaddon' />
+    <extension name='customerinterestsaddon' />
+    <extension name='stocknotificationaddon' />
+    <extension name='chineseproductsharingaddon' />
+  </extensions>
+</hybrisconfig>

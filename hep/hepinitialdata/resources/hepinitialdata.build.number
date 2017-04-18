@@ -1,0 +1,9 @@
+#Ant properties
+#Tue Mar 14 16:27:38 CET 2017
+builddate=20170314 1626
+description=hepinitialdata
+name=hepinitialdata
+releasedate=20161216 2030
+vendor=hybris
+version=6.3.0.2
+version.api=6.3.0
